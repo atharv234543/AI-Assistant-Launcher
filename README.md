@@ -86,6 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Atharv Telkar
 
-Project Link: [https://github.com/yourusername/ai-assistant-launcher](https://github.com/yourusername/ai-assistant-launcher) 
+Project Link: [https://github.com/atharv234543/ai-assistant-launcher](https://github.com/atharv234543/AI-Assistant-Launcher) 
